@@ -1,0 +1,3 @@
+[submodule "vagrant-ansible-demo"]
+	path = vagrant-ansible-demo
+	url = https://github.com/youngd24/vagrant-ansible-lab
